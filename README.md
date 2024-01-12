@@ -37,4 +37,4 @@ user@linux:~/Project$ nslookup examples.com
 Server: <server_address>
 ```
 
-Make sure to replace <port> and <server_address> with the appropriate values. Feel free to modify and adapt the scripts and source code based on your requirements.
+Make sure to replace <port> and <server_address> with the appropriate values.
